@@ -1,0 +1,18 @@
+[submodule "Client"]
+	path = Client
+	url = https://github.com/Puyodead1/ChatRoom-Client
+[submodule "Server"]
+	path = Server
+	url = https://github.com/Puyodead1/ChatRoom-Server
+[submodule "EventSystem"]
+	path = EventSystem
+	url = https://github.com/Puyodead1/ChatRoom-EventSystem
+[submodule "PacketSystem"]
+	path = PacketSystem
+	url = https://github.com/Puyodead1/ChatRoom-PacketSystem
+[submodule "CommandSystem"]
+	path = CommandSystem
+	url = https://github.com/Puyodead1/ChatRoom-CommandSystem
+[submodule "Common"]
+	path = Common
+	url = https://github.com/Puyodead1/ChatRoom-Common
